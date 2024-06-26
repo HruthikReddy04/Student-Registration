@@ -1,0 +1,6 @@
+Yaswanth BT21CSE121
+DSPD A
+CO   B
+DMGT B
+CPL D
+DCMP E
